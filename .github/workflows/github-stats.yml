@@ -1,0 +1,16 @@
+name: Generate GitHub Stats card
+
+# Quando eseguire l'action
+on:
+  schedule:
+    - cron: '0 0 * * *' # ogni giorno a mezzanotte UTC
+  workflow_dispatch: # permette di far partire manualmente l'action
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: cicirello/user-statistician@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output: 'github-metrics.svg'
