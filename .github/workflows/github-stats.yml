@@ -14,16 +14,17 @@ jobs:
     steps:
       # Statistiche dei linguaggi principali
       - name: 'Languages Activity'
-        uses: lowlighter/metrics@latest
-        with:
-          filename: languages.svg          # dove salvare l'SVG
-          token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}  # il tuo secret con il token personale
-          config_timezone: Europe/Rome
-          plugin_languages: yes
-          plugin_languages_skipped: ''     # puoi lasciare vuoto
-          plugin_languages_ignored: ''     # puoi lasciare vuoto
-          plugin_languages_details: percentage, byte-size
-          plugin_languages_limit: 8
+  uses: lowlighter/metrics@latest
+  with:
+    filename: languages.svg
+    token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
+    config_timezone: Europe/Rome
+    plugin_languages: yes
+    plugin_languages_skipped: ''       # includi tutti i repo
+    plugin_languages_ignored: ''       # non ignorare alcun linguaggio
+    plugin_languages_details: percentage, byte-size
+    plugin_languages_limit: 12         # aumenta se hai molti linguaggi
+
 
       # Statistiche generali del profilo
       - name: 'User Stats'
