@@ -18,5 +18,5 @@ jobs:
         with:
           filename: user.svg
           token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
-          base: header, repositories, stars, commits, community
+          base: header, repositories, stars, commits, community, contributions
           plugin_lines: yes
