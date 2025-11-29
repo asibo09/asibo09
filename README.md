@@ -15,7 +15,7 @@ I’m currently studying Computer Science and Engineering at University of Bolog
 <p align="left">
   <img src="user.svg" alt="User Stats" width="450"/>
 </p>
-
+<img src="https://github-lang-stats.herokuapp.com/api/asibo09" alt="GitHub Language Stats" />
 ---
 
 ## 🛠️ Languages & Technologies
