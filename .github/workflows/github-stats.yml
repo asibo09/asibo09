@@ -1,6 +1,5 @@
 name: GitHub Profile Stats
 
-# Quando far partire l'action
 on:
   schedule:
     - cron: "0 23 * * *"  # ogni giorno alle 23 UTC
@@ -14,23 +13,22 @@ jobs:
     steps:
       # Statistiche dei linguaggi principali
       - name: 'Languages Activity'
-  uses: lowlighter/metrics@latest
-  with:
-    filename: languages.svg
-    token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
-    config_timezone: Europe/Rome
-    plugin_languages: yes
-    plugin_languages_skipped: ''       # includi tutti i repo
-    plugin_languages_ignored: ''       # non ignorare alcun linguaggio
-    plugin_languages_details: percentage, byte-size
-    plugin_languages_limit: 12         # aumenta se hai molti linguaggi
-
+        uses: lowlighter/metrics@latest
+        with:
+          filename: languages.svg
+          token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
+          config_timezone: Europe/Rome
+          plugin_languages: yes
+          plugin_languages_skipped: ''       # includi tutti i repo
+          plugin_languages_ignored: ''       # non ignorare alcun linguaggio
+          plugin_languages_details: percentage, byte-size
+          plugin_languages_limit: 12         # aumenta se hai molti linguaggi
 
       # Statistiche generali del profilo
       - name: 'User Stats'
         uses: lowlighter/metrics@latest
         with:
-          filename: user.svg                # dove salvare l'SVG
-          token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}  # il tuo secret
+          filename: user.svg
+          token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
           base: header, repositories
           plugin_lines: yes
