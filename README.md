@@ -10,12 +10,13 @@ I’m currently studying Computer Science and Engineering at University of Bolog
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-asibo09.vercel.app/api?username=asibo09&show_icons=true&theme=radical" alt="Pietro's GitHub Stats" />
-  <img src="https://github-readme-stats-asibo09.vercel.app/api/top-langs/?username=asibo09&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="user.svg" alt="User Stats" width="450"/>
+  <img src="languages.svg" alt="Languages Stats" width="450"/>
 </p>
+
 
 ---
 
