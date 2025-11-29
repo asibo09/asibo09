@@ -20,5 +20,4 @@ jobs:
           token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
           base: header, repositories, stars, commits, community, contributions
           plugin_lines: yes
-          plugin_activity: yes
-          plugin_activity_include_forks: yes
+          
