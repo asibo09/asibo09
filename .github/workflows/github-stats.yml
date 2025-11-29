@@ -21,6 +21,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_skipped: ''       # includi tutti i repo
           plugin_languages_ignored: ''       # non ignorare alcun linguaggio
+          plugin_languages_include_forks: yes   # importante per includere fork
           plugin_languages_details: percentage, byte-size
           plugin_languages_limit: 12         # aumenta se hai molti linguaggi
 
