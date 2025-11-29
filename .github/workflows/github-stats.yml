@@ -14,7 +14,7 @@ jobs:
 
       # Statistiche generali del profilo
       - name: 'User Stats'
-        uses: lowlighter/metrics@v1.11.0
+        uses: lowlighter/metrics@latest
         with:
           filename: user.svg
           token: ${{ secrets.GHRS_GITHUB_API_TOKEN }}
