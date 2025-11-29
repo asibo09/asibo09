@@ -13,9 +13,8 @@ I’m currently studying Computer Science and Engineering at University of Bolog
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="user.svg" alt="Languages Stats" width="450"/>
+  <img src="user.svg" alt="User Stats" width="450"/>
 </p>
-
 
 ---
 
