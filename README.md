@@ -13,8 +13,8 @@ I’m currently studying Computer Science and Engineering at University of Bolog
 ## 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=asibo09&show_icons=true&theme=radical" alt="Pietro's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asibo09&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-asibo09.vercel.app/api?username=asibo09&show_icons=true&theme=radical" alt="Pietro's GitHub Stats" />
+  <img src="https://github-readme-stats-asibo09.vercel.app/api/top-langs/?username=asibo09&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
