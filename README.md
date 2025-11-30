@@ -16,7 +16,7 @@ Alongside my studies, I work as a tutor, helping middle and high school students
 <p align="left">
   <img src="user.svg" alt="User Stats" width="450"/>
 </p>
-<p align="center">
+<p align="left">
   <img src="languages.svg" alt="Languages Stats" width="450"/>
 </p>
 
@@ -24,7 +24,7 @@ Alongside my studies, I work as a tutor, helping middle and high school students
 
 ## 🛠️ Languages & Technologies
 
-### 💻 Programming Languages  
+### 💻 Programming Languages:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
@@ -34,7 +34,7 @@ Alongside my studies, I work as a tutor, helping middle and high school students
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
-### 🌐 Web Development  
+### 🌐 Web Development:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -43,7 +43,7 @@ Alongside my studies, I work as a tutor, helping middle and high school students
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </p>
 
-### 🧰 Tools & Version Control  
+### 🧰 Tools & Version Control:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="GitHub"/>
