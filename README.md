@@ -6,7 +6,8 @@
 
 ## 🚀 About Me
 
-🧑‍💻I’m currently studying Computer Science and Engineering at University of Bologna. Alongside my studies, I work as a tutor, helping middle and high school students with homework and study support.  
+🧑‍💻I’m currently studying Computer Science and Engineering at University of Bologna. 
+Alongside my studies, I work as a tutor, helping middle and high school students with homework and study support.  
 
 ---
 
@@ -15,7 +16,9 @@
 <p align="left">
   <img src="user.svg" alt="User Stats" width="450"/>
 </p>
-<img src="https://github-lang-stats.herokuapp.com/api/asibo09" alt="GitHub Language Stats" />
+<p align="center">
+  <img src="languages.svg" alt="Languages Stats" width="450"/>
+</p>
 
 ---
 
