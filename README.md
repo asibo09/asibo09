@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I’m currently studying Computer Science and Engineering at University of Bologna. Alongside my studies, I work as a tutor, helping middle and high school students with homework and study support.  
+🧑‍💻I’m currently studying Computer Science and Engineering at University of Bologna. Alongside my studies, I work as a tutor, helping middle and high school students with homework and study support.  
 
 ---
 
