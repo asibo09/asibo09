@@ -1,12 +1,12 @@
 ## 👋 Hi!
 
-🎓 I'm a **Computer Science and Engineering** student at the **University of Bologna (Unibo)**, Cesena Campus.  
+🎓 I'm a **Computer Science and Engineering** graduate and current Master's student at the **University of Bologna (Unibo)**, Cesena Campus.
 
 ---
 
 ## 🚀 About Me
 
-👨🏻‍💻I’m currently studying Computer Science and Engineering at University of Bologna. 
+👨🏻‍💻 I recently completed my Bachelor's degree in Computer Science and Engineering, concluding with a thesis in Data-Intensive Application focused on Multimodal Large Language Models for automated ICD coding in the biomedical field. I am now continuing my studies at Unibo with a Master's degree, enrolled in the **Artificial Intelligence: Fundamentals, Methods, and Computer Technologies** curriculum.
 Alongside my studies, I work as a tutor, helping middle and high school students with homework and study support.  
 
 ---
@@ -32,6 +32,12 @@ Alongside my studies, I work as a tutor, helping middle and high school students
 ![Python](https://skillicons.dev/icons?i=py "Python")
 ![MySQL](https://skillicons.dev/icons?i=mysql "MySQL")
 
+### 🧠 AI & Machine Learning:
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img width="48" height="48" alt="Hugging Face" src="https://github.com/user-attachments/assets/ae18fc99-f76a-4918-9ef1-9d782370574e" /></a>
+<a href="https://wandb.ai/site" target="_blank" rel="noreferrer"><img width="48" height="48" alt="Weights & Biases" src="https://github.com/user-attachments/assets/7f968471-81f9-4719-8482-b00cfc610873" /></a>
+<a href="https://slurm.schedmd.com/" target="_blank" rel="noreferrer"><img width="48" height="48" alt="Slurm" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4aJOaS7WpLFHyJCciuL0ixaFNHlNLNBLbJbkSnvNVJg&s" /></a>
+
+
 ### 🌐 Web Development:
 ![HTML5](https://skillicons.dev/icons?i=html "HTML5")
 ![CSS3](https://skillicons.dev/icons?i=css "CSS3")
@@ -55,6 +61,7 @@ Alongside my studies, I work as a tutor, helping middle and high school students
 ![Bash](https://skillicons.dev/icons?i=bash "Bash")
 ![npm](https://skillicons.dev/icons?i=npm "npm")
 ![Latex](https://skillicons.dev/icons?i=latex "Latex")
+![Docker](https://skillicons.dev/icons?i=docker "Docker")
 
 ---
 
